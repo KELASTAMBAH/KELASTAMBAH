@@ -9,7 +9,5 @@ KELASTAMBAH adalah media daring pembelajaran yang fokus pada IPTEK. Seperti Pemr
 
 ![Profile views](https://gpvc.arturio.dev/KELASTAMBAH) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KELASTAMBAH)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KELASTAMBAH&show_icons=true)  
 ![GitHub metrics](https://metrics.lecoq.io/KELASTAMBAH)  
 
