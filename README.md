@@ -5,7 +5,7 @@ KELASTAMBAH adalah media daring pembelajaran yang fokus pada IPTEK. Seperti Pemr
 
 📧 Contact: kelastambah@gmail.com
 
-https://github.com/KELASTAMBAH/KELASTAMBAH/blob/main/KELASTAMBAH_kelastambah%40gmail.com-pub.asc
+[🔑 PGP Public Key File](https://github.com/KELASTAMBAH/KELASTAMBAH/blob/main/KELASTAMBAH_kelastambah%40gmail.com-pub.asc)
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
